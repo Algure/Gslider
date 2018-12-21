@@ -154,6 +154,9 @@ You're all set. build and install.
    
 NOTE: For a thrilling UX, avoid using scrollviews in activities where this have been implemented. 
 
-With a little creativity and tweaks, your designs could be really awesome
+With a little creativity and a few tweaks, your designs could be really awesome;
+
 ![smalltm](https://user-images.githubusercontent.com/37802577/50366402-b6595400-0579-11e9-8c67-15fded48bfcf.gif)
   
+
+![20181221223007](https://user-images.githubusercontent.com/37802577/50366474-2c5dbb00-057a-11e9-83b1-20ae7b05cb86.gif)
