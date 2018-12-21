@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Slide.iml" filepath="$PROJECT_DIR$/Slide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\HP\Downloads\Slide\gslider\gslide.iml" filepath="C:\Users\HP\Downloads\Slide\gslider\gslide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gslider/gslider.iml" filepath="$PROJECT_DIR$/gslider/gslider.iml" />
+    </modules>
+  </component>
+</project>
