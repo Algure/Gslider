@@ -1,5 +1,6 @@
 # Slider CREATE ELEGANT IMAGE TRANSITIONS WITH THIS EASY TO USE LIBRARY 
 
+![e.g](smallpp.gif)
 
   If you're like me, you've probably tried to get a cool image transition but after going through the implementation process (viewPager most likely),
 you maybe thought "there's got to be an easier way".
