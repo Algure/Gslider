@@ -1,5 +1,7 @@
 # Slider CREATE ELEGANT IMAGE TRANSITIONS WITH THIS EASY TO USE LIBRARY 
 
+https://user-images.githubusercontent.com/37802577/50364554-c7519780-0570-11e9-997d-432bba96ca07.gif
+
   If you're like me, you've probably tried to get a cool image transition but after going through the implementation process (viewPager most likely),
 you maybe thought "there's got to be an easier way".
 
