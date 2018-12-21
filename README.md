@@ -153,4 +153,7 @@ OR paste
 You're all set. build and install.
    
 NOTE: For a thrilling UX, avoid using scrollviews in activities where this have been implemented. 
+
+With a little creativity and tweaks, your designs could be really awesome
+![smalltm](https://user-images.githubusercontent.com/37802577/50366402-b6595400-0579-11e9-8c67-15fded48bfcf.gif)
   
