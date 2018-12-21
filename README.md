@@ -29,7 +29,7 @@ ensure it is at your root level and not app level build.gradle file.
  
  
               dependencies {
-	                    implementation 'com.github.Algure:Slider:0.1.1'
+	                    implementation 'com.github.Algure:gSlider:0.1.1'
 	            }
  
 
