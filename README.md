@@ -1,4 +1,5 @@
 # gSlider CREATE ELEGANT AND EASY IMAGE TRANSITIONS WITH ANDROID STUDIO
+
 ![e.g](smallpp.gif)
 
   If you're like me, you've probably tried to get a cool image transition but after going through the implementation process (viewPager most likely),
